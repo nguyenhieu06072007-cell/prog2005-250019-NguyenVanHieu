@@ -1,0 +1,7 @@
+name = input("nhập tên :")
+name =name.strip()
+name = name.lower()
+name = name .title()
+name=  name .split()
+name = " ".join(name)
+print (name)
